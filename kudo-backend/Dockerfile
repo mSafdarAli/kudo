@@ -1,15 +1,3 @@
-#Stage 1
-#FROM node:latest as build-step
-#RUN mkdir -p /usr/app
-#WORKDIR /usr/app
-#COPY package.*json /usr/app/
-#RUN npm install
-#COPY . /usr/app/
-#RUN npm i -g pm2
-#CMD ["pm2-runtime", "/usr/app/index.js"]
-
-
-
 # Add "AS build" for later use
 FROM node:latest as build-step
 
