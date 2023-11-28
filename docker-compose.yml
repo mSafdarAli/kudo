@@ -1,0 +1,24 @@
+version: "3.8"
+services:
+  reverse_proxy:
+    image: nginx:1.17.10
+    container_name: reverse_proxy
+    depends_on:
+      - kudo-backend
+    volumes:
+      - ./reverse_proxy/nginx.conf:/etc/nginx/nginx.conf  
+    ports:
+      - 80:80
+    networks:
+      - node-network  
+  kudo-backend:
+    container_name: kudo-backend
+    image: back1
+    networks:
+      - node-network
+volumes:
+  dbdata6:
+networks:
+  node-network:
+    external: true
+    driver: bridge  

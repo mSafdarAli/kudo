@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "kudo-erp",
+  "private_key_id": "b011d8a02978ad1abe56aba804d004223aa9f5bf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC0gbnZ7d0yjxSF\nDW+/pyrVA30BKkeU4bbCAStojRaZueaduy6FpE73/x4rS9l00hRAFbzoqKMhoAae\nqUa8H+4CfzBXlEO2iZRiAszlD6Vl3EginaccJnpiko8oelHAt6fJSBpKwaxYeWbc\neP+N+nzsRTN/HPnk5nM1/LLGpqT3K3O3Itlg3miNUrK06qPBGLDC4ssppHYJn5Us\nLJqaPYbtvb9GNdJmR1GmRtrJ7RQ3cktCXLryNbWzCGWKwjU7nEjp5l2OF08rNHfA\nIoOV/bjDJKPgJ9Cgg7ruqhE7bOZk/NYsIipMti2adD+krrbz9tH30cxX/RtKIXZB\nWQ3t5y7XAgMBAAECggEAD83x91uvy+RM4CTKiDB7UWunmh6uZiHog2O103F9rUJi\nfPoC0Jm6flVHOh7p2yQlDhgOfR0oLLgFtwZMQV7W/en5Uhm9tLGmx87F9je1/CKw\nQDOnNObw5/ORdvJVeSG7c6YNWJv3hUbv6NWWo+2ZhYMTnLQX9IucQnmt2jMva3gA\n47A0Qi/+6X3MPgOUMIOrXAwII389LGlWFx+USeuoFlNacshI70skEvXzxruVHZZ3\nsOEdqwX/aMwossv4c3p5+hJymfECAQ8tt5E6yXJN7BXxhcFtBNUoPqXmGocxQDZP\nhYo0azoLAkpxNT4G+j8/KVEWiL7B+iS9p0TMFfd+EQKBgQD7atGdWGH+6WHtOYyV\nYm+TfMQAeRic9c6DUNeKB5bscXpkfsQuphjiuVvvYxuE7P9W/9pVWP3khLAvjrfb\nLZIkb8yGhNojHP06rYcwc/w/ieeFfuduwK6KTit5N+6QEzj0qPLQ905iB1ECKhaG\ngjBQttKiKm2Ey13TWCz5wUqgUQKBgQC3zAT6Ob4tEC2yF0FQ4IHYXbX4q4hgF/ce\nGuBw/2QuU/y2MZGzHdgaw9AByhUmCjOqMXnBLS3N6yN+IlGaeqWo7rOqzoPk+cg0\nlcuWlo35kwHYQN1GpB/ia643CNOUzCjiDAqzZYUj8l4SE5f2u2SD66HoIpKr0UKC\n8d3ZFjJ6pwKBgQCXmfu3oznEGjqAbzlEQs0A5DTUDDE5REc4i6DMjHMHNA4XVxE5\nB9Lts9Op79sCNl5puXGQEU9XYmNS6f4XXc1Hx1pOqwFWNv7DSSvBnc63CZLfvnwT\nHoCgyS4RtBZYLh8j+FQiiV1sYvkIExTuGsbDhNpSCr9rWa3D6OGF4HX9YQKBgEeq\nY551+XN0xXyVmMBCah7Fm3jU2Z4uegrhC/bDfnqaAQXBmkAvON5mz6qC83Abtj18\ngS8TwLJ0Jyi9lPgZLpMKUEAfukoEI05twi57kexop+V8lUtAH7aXqhyHcoioeqB5\ndYqx4RI9JPUDctOgCfduX3k2Ud5w//AzAv/sqc4tAoGBAK+cnoaloc2i6pGQLdGD\nihwOERg+xigCHHBvwxex8sLsXb6Tym0KwuuCa9BPdoFArdWTg1uaZHtSZKHMjBAt\n69yejbPKNgYD2jEnfZOQEU1x+fDg+q/59BGYLBOm8sFk2hGKKAzdGFXC+OMLKu+S\n91V6vmIG1vTV7JCTRfpIeu/C\n-----END PRIVATE KEY-----\n",
+  "client_email": "test-864@kudo-erp.iam.gserviceaccount.com",
+  "client_id": "117426928089094393893",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/test-864%40kudo-erp.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
